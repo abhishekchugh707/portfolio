@@ -16,9 +16,9 @@
 }
 
 .projects-container .projects-grid .project img {
-  width: 100%;
+  width: 100% auto;
   max-width: 420px;   // reduce visual size
-  height: 220px;      // consistent thumbnail height
+  height: 300px;      // consistent thumbnail height
   object-fit: cover;  // crop nicely
   display: block;
 }
