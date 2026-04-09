@@ -14,7 +14,15 @@
 .projects-container .projects-grid .project {
     text-align: left;
 }
-  
+
+.projects-container .projects-grid .project img {
+  width: 100%;
+  max-width: 420px;   // reduce visual size
+  height: 220px;      // consistent thumbnail height
+  object-fit: cover;  // crop nicely
+  display: block;
+}
+
 .project h2:hover {
     text-decoration: underline;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
