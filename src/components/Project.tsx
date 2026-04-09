@@ -20,7 +20,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock01} className="zoom" alt="Master thesis thumbnail" width="100%" />
+            <img src={mock01} className="zoom" alt="Master thesis thumbnail"/>
             <h2>Master Thesis – Securing AI Model APIs in MLOps</h2>
           </a>
           <p>
@@ -36,7 +36,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock02} className="zoom" alt="Knowledge graphs thumbnail" width="100%" />
+            <img src={mock02} className="zoom" alt="Knowledge graphs thumbnail"/>
             <h2>Knowledge Graphs in Analytical Architectures</h2>
           </a>
           <p>
@@ -52,7 +52,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock03} className="zoom" alt="Reputation and sentiment analysis thumbnail" width="100%" />
+            <img src={mock03} className="zoom" alt="Reputation and sentiment analysis thumbnail"/>
             <h2>Reputation & Sentiment Analysis on News Data</h2>
           </a>
           <p>
@@ -68,7 +68,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock04} className="zoom" alt="Web scraping project thumbnail" width="100%" />
+            <img src={mock04} className="zoom" alt="Web scraping project thumbnail"/>
             <h2>Web Scraping – Movie Rating Review System</h2>
           </a>
           <p>
@@ -84,7 +84,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock05} className="zoom" alt="Parking lot project thumbnail" width="100%" />
+            <img src={mock05} className="zoom" alt="Parking lot project thumbnail"/>
             <h2>Parking Lot Management System</h2>
           </a>
           <p>
@@ -100,7 +100,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <img src={mock06} className="zoom" alt="Cricket game thumbnail" width="100%" />
+            <img src={mock06} className="zoom" alt="Cricket game thumbnail"/>
             <h2>Cricket Game Application</h2>
           </a>
           <p>
